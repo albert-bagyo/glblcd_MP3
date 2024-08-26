@@ -1,3 +1,4 @@
+#The playlist Class for storing tracks
 class Playlist():
     
     def __init__(self,playlist: list[str] = []):
